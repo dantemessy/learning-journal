@@ -17,4 +17,4 @@
   :+1:
 
 my GitHub: 
-https://github.com/dantemessy/learning-journal
+(https://github.com/dantemessy/learning-journal)
