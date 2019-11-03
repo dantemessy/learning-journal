@@ -14,7 +14,6 @@
   - The more you do it, the better you’ll get at it.
   - You’ll feel good.
   
-  :+1:
+:+1:
 
-my GitHub: 
-(https://github.com/dantemessy/learning-journal)
+[MyGithub](https://github.com/dantemessy/learning-journal)
