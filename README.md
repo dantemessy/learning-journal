@@ -15,3 +15,6 @@
   - You’ll feel good.
   
   :+1:
+
+my GitHub: 
+https://github.com/dantemessy/learning-journal
