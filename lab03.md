@@ -8,7 +8,12 @@
 ### amazing right! 
 
 ### Check out more :
-[Growth_Mindset](C:\Users\std13\gitlab\learning-journal\growth_mindset)
 
-[MarkDown](C:\Users\std13\gitlab\learning-journal\Journal)
+Name | Link
+------------------------- | --------------------------
+Growth_Mindset | [Click](C:\Users\std13\gitlab\learning-journal\growth_mindset)
+MarkDown | [Click](C:\Users\std13\gitlab\learning-journal\Journal)
+
+
+
 
