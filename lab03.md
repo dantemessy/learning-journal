@@ -1,24 +1,14 @@
-markdown be like 
+# Hello World 
 
+### You Are in my own page !!
+![image](https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Wellcome_Trust_logo.svg/2000px-Wellcome_Trust_logo.svg.png)
 
- 
+My name is Abdulrhman Alharasis 
+And what you watching is just what i learn in two days!! 
+amazing right !
 
-#### This is an h4 tag
-# This is an h1 tag
+### Check out more :
+[Growth_Mindset](C:\Users\std13\gitlab\learning-journal\growth_mindset)
 
-and this is an orderd list:
-1. first
-2. second
-3. third
-
-and this is the ordered one:
-
-* first
-* second 
-* third
-
-If you want to embed images, this is how you do it:
-
-![Image](https://wallpapercave.com/wp/wp2620716.jpg)
-
+[MarkDown](C:\Users\std13\gitlab\learning-journal\Journal)
 
