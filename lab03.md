@@ -11,8 +11,8 @@
 
 Name | Link
 ------------------------- | --------------------------
-Growth_Mindset | [Click](C:\Users\std13\gitlab\learning-journal\growth_mindset)
-MarkDown | [Click](C:\Users\std13\gitlab\learning-journal\Journal)
+Growth_Mindset | [Click](https://dantemessy.github.io/learning-journal/growth_mindset)
+MarkDown | [Click](https://dantemessy.github.io/learning-journal/Journal)
 
 
 
